@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "adam01wd.aternos.me
-",
+    "ip": "adam01wd.aternos.me",
     "port": 64349,
     "version": "1.20.1",
     "try-creative": false
